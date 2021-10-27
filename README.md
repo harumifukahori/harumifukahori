@@ -10,7 +10,11 @@ EN-US
 -->
 PT-BR
 -🔭 Atualmente estou trabalhando em > Suporte de Sofware
+
 -🌱 Atualmente estou aprendendo > Javascript/Python/Java
+
 -👯 Tenho interesse em colaborar em > DEV
+
 -📫 Contato: assessoriaharumifukahori@gmail.com
+
 -😄 Pronomes: Ela/Dela
