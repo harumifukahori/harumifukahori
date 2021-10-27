@@ -11,7 +11,7 @@ EN-US
 
 PT-BR
 
--🔭 Atualmente estou trabalhando em > Suporte de Sofware
+-🔭 Atualmente estou trabalhando em > Suporte de Software
 
 -🌱 Atualmente estou aprendendo > Javascript/Python/Java
 
