@@ -8,6 +8,7 @@ EN-US
 - 📫 How to reach me: assessoriaharumifukahori@gmail.com
 - 😄 Pronouns: She/Her
 -->
+
 PT-BR
 -🔭 Atualmente estou trabalhando em > Suporte de Sofware
 
