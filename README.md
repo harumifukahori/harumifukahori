@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**harumifukahori/harumifukahori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EN-US
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on > Software Support
+- 🌱 I’m currently learning > Javascript/Python/Java
+- 👯 I’m looking to collaborate on > DEV
+- 📫 How to reach me: assessoriaharumifukahori@gmail.com
+- 😄 Pronouns: She/Her
 -->
+PT-BR
+-🔭 Atualmente estou trabalhando em > Suporte de Sofware
+-🌱 Atualmente estou aprendendo > Javascript/Python/Java
+-👯 Tenho interesse em colaborar em > DEV
+-📫 Contato: assessoriaharumifukahori@gmail.com
+-😄 Pronomes: Ela/Dela
