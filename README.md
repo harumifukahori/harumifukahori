@@ -10,6 +10,7 @@ EN-US
 -->
 
 PT-BR
+
 -🔭 Atualmente estou trabalhando em > Suporte de Sofware
 
 -🌱 Atualmente estou aprendendo > Javascript/Python/Java
