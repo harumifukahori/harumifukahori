@@ -2,7 +2,6 @@
 
 EN-US
 
-- 🔭 I’m currently working on > Software Support
 - 🌱 I’m currently learning > Javascript/Python/Java
 - 👯 I’m looking to collaborate on > DEV
 - 📫 How to reach me: assessoriaharumifukahori@gmail.com
@@ -10,8 +9,6 @@ EN-US
 -->
 
 PT-BR
-
--🔭 Atualmente estou trabalhando em > Suporte de Software
 
 -🌱 Atualmente estou aprendendo > Javascript/Python/Java
 
