@@ -13,7 +13,8 @@ PT-BR
 - 📫 Contato: linkedin.com/in/harumifukahori/
 - 😄 Pronomes: Ela/Dela
 <div>
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/927783701595693096/971595246771269642/picasion.com_b14a80b46c5b10e3d59520697e7e2c51.gif">
+  </div>
   <div> 
   <a href="https://instagram.com/harumifukahori" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/harumifukahori" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
