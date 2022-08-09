@@ -2,14 +2,14 @@
 
 EN-US
 - 📚 I’m currently studying > Back-end & Front-end
-- 🌱 I’m currently learning > Python | Javascript | PHP
+- 🌱 I’m currently learning > Python | Javascript | PHP | HTML | CSS
 - 📫 How to reach me: linkedin.com/in/harumifukahori/
 - 😄 Pronouns: She/Her
 -->
 
 PT-BR
 - 📚 Estou estudando > Back-end & Front-end
-- 🌱 Atualmente estou aprendendo > Python | Javascript | PHP
+- 🌱 Atualmente estou aprendendo > Python | Javascript | PHP | HTML | CSS
 - 📫 Contato: linkedin.com/in/harumifukahori/
 - 😄 Pronomes: Ela/Dela
 <div>
