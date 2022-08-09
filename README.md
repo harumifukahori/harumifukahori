@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 EN-US
-- 📚 I’m currently working on > Back-end
-- 🌱 I’m currently learning > Python | Flask | Peewee | Docker
+- 📚 I’m currently studying > Back-end & Front-end
+- 🌱 I’m currently learning > Python | Javascript | PHP
 - 📫 How to reach me: linkedin.com/in/harumifukahori/
 - 😄 Pronouns: She/Her
 -->
 
 PT-BR
-- 📚 Estou trabalhando como > Back-end
-- 🌱 Atualmente estou aprendendo > Python | Flask | Peewee | Docker
+- 📚 Estou estudando > Back-end & Front-end
+- 🌱 Atualmente estou aprendendo > Python | Javascript | PHP
 - 📫 Contato: linkedin.com/in/harumifukahori/
 - 😄 Pronomes: Ela/Dela
 <div>
