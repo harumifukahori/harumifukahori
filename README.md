@@ -3,14 +3,14 @@
 EN-US
 - 📚 I’m currently studying > Back-end & Front-end
 - 🌱 I’m currently learning > Python | Javascript | PHP | HTML5 | CSS3
-- 📫 How to reach me: linkedin.com/in/harumifukahori/
+- 📫 How to reach me: assessoriaharumifukahori@gmail.com
 - 😄 Pronouns: She/Her
 -->
 
 PT-BR
 - 📚 Estou estudando > Back-end & Front-end
 - 🌱 Atualmente estou aprendendo > Python | Javascript | PHP | HTML5 | CSS3
-- 📫 Contato: linkedin.com/in/harumifukahori/
+- 📫 Contato: assessoriaharumifukahori@gmail.com
 - 😄 Pronomes: Ela/Dela
 <div>
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/927783701595693096/971595246771269642/picasion.com_b14a80b46c5b10e3d59520697e7e2c51.gif">
