@@ -5,7 +5,7 @@ EN-US
 - 🌱 I’m currently learning > Python | Javascript | PHP | HTML5 | CSS3
 - 📫 How to reach me: assessoriaharumifukahori@gmail.com
 - 😄 Pronouns: She/Her
--->
+-
 
 PT-BR
 - 📚 Estou estudando > Back-end & Front-end
